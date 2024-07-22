@@ -4,10 +4,25 @@ This repository is designed to provide structured and comprehensive training mat
 Repository Structure
 The branches in this repository are organized as follows:
 
-week_01_EDA
+Week_01_EDA
 
 
-week_02_Simple_Linear_regression
+Week_02_Simple_Linear_regression
+
+
+Week_03_Multiple_Regression
+
+
+Week_04_
+
+
+Week_05_
+
+
+Week_06_
+
+
+Week_07_
 
 
 
